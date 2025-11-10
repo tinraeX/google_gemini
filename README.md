@@ -115,3 +115,7 @@ venv/bin/python3 -m src
 ```
 
 Для остановки агента в любой момент нажмите `Ctrl+C`.
+
+site = tinrae.com
+email = s@tinrae.com
+tg = @tinraeCOM
